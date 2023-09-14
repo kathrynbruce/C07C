@@ -3,7 +3,6 @@ package levelPieces;
 import java.util.ArrayList;
 import gameEngine.Drawable;
 import gameEngine.Moveable;
-import gameEngine.Player;
 
 public class LevelSetup {
 
@@ -23,7 +22,7 @@ public class LevelSetup {
         return null;
     }
 
-    public void getPlayerStartLoc() {
-        return;
+    public int getPlayerStartLoc() {
+        return 0;
     }
 }
