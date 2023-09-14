@@ -3,7 +3,6 @@ package levelPieces;
 import java.util.ArrayList;
 import gameEngine.Drawable;
 import gameEngine.Moveable;
-import gameEngine.Player;
 
 public class LevelSetup {
 
