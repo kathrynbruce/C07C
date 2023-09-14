@@ -23,7 +23,7 @@ public class LevelSetup {
         return null;
     }
 
-    public void getPlayerStartLoc(Player player) {
+    public void getPlayerStartLoc() {
         return;
     }
 }
