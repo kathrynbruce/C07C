@@ -1,9 +1,11 @@
+//Implements Moveable, random movement
 package levelPieces;
 
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
+import gameEngine.Moveable;
 
-public class PieceOne extends GamePiece {
+public class PieceOne extends GamePiece implements Moveable {
 
     // constructor
     public PieceOne(int location) {
@@ -14,6 +16,11 @@ public class PieceOne extends GamePiece {
     @Override
     public void draw() {
         System.out.print(this.symbol);
+    }
+
+    @Override
+    public void move(Drawable[] gameBoard, int playerLocation) {
+
     }
 
     public InteractionResult interact(Drawable[] gameBoard, int playerLocation) {

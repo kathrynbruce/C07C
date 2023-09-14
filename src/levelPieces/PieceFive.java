@@ -1,19 +1,18 @@
+//Non movable, just drawable one. 
 package levelPieces;
 
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
 
-public class PieceFive extends GamePiece {
+public class PieceFive implements Drawable {
 
     // constructor
     public PieceFive(int location) {
-        super('1', "PieceFive", location);
+        return;
     }
 
-    // inhereted methods
-    @Override
     public void draw() {
-        System.out.print(this.symbol);
+        System.out.print('5');
     }
 
     public InteractionResult interact(Drawable[] gameBoard, int playerLocation) {
