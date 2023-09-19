@@ -1,13 +1,14 @@
+//doesn't move, no interaction
 package levelPieces;
 
 import gameEngine.Drawable;
 import gameEngine.InteractionResult;
 
-public class PieceTwo extends GamePiece {
+public class Distraction extends GamePiece {
 
     // constructor
-    public PieceTwo(int location) {
-        super('1', "PieceTwo", location);
+    public Distraction(int location) {
+        super('d', "Distraction", location);
     }
 
     // inhereted methods
@@ -19,5 +20,9 @@ public class PieceTwo extends GamePiece {
     public InteractionResult interact(Drawable[] gameBoard, int playerLocation) {
         return InteractionResult.NONE;
     }
-
+    
+    //toString
+    public String toString(){
+        return("d - Distraction (does nothing, no interactions)");
+    }
 }

@@ -14,7 +14,7 @@ public class Token extends GamePiece{
     }
 
     public void draw() {
-        System.out.print('5');
+        System.out.print('T');
     }
 
     @Override
