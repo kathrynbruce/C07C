@@ -10,10 +10,14 @@ public class Distraction implements Drawable {
     public void draw() {
         System.out.print('d');
     }
-    
-    //toString
+
+    public Distraction(int location) {
+        char symbol = 'd';
+    }
+
+    // toString
     @Override
-    public String toString(){
-        return("d - Distraction (does nothing, no interactions)");
+    public String toString() {
+        return ("d - Distraction (does nothing, no interactions)");
     }
 }
