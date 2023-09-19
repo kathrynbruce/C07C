@@ -19,17 +19,17 @@ GET POINT - TOKEN (STAYS IN SAME SPACE, DRAWABLE, GOES TO LEVEL 2)
 NONE - DISTRACTION (DOES NOTHING, RANDOM SPACE AND STAYS)
 
 At least one piece should interact at a distance
-OBSTACLE - can harm player from a distance - hits random space
-and if hits player they lose a turn?
+CAVALRY - hits player if they are one space away, dies if they are on the same space as the player.
+KILLER - randomly generates a space to kill, then kills if the player is there. 
 
 At most 3 can interact only when on the same square
-TOKEN, HITTER, KILLER 
+TOKEN, GHOST
 
 At least 2 pieces that move (implement Moveable) [15pts].
-PLAYER AND KILLER - one piece 
+PLAYER, KILLER, GHOST, CAVALRY
 
 Use at least 2 different move algorithms
-MOVE BY KEY INPUT (PLAYER) AND MOVE BY FOLLOWING PLAYER (KILLER)
+MOVE BY KEY INPUT (PLAYER) AND MOVE BY FOLLOWING PLAYER (CAVALRY, KILLER), MOVE BY RUNNING AWAY FROM PLAYER (GHOST)
 
 At least 1 should include some type of random decision/motion
 HITTER
