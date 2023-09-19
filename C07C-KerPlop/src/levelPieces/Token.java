@@ -32,6 +32,7 @@ public class Token extends GamePiece{
     }
 
     //toString method
+    @Override
     public String toString(){
         return("T - Token (draw token to gain point)");
     }

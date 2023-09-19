@@ -14,7 +14,7 @@ Include at least one for each type of InteractionResult
 HIT, KILL, ADVANCE, GET_POINT, NONE
 HIT - HITTER (MOVEABLE - RANDOM MOTION)
 KILL - KILLER (MOVEABLE - TOWARDS PLAYER)
-ADVANCE - Player (MOVEABLE - INPUT)
+ADVANCE - Player (MOVEABLE - INPUT), UNICORN (MOVABLE )
 GET POINT - TOKEN (STAYS IN SAME SPACE, DRAWABLE, GOES TO LEVEL 2)
 NONE - DISTRACTION (DOES NOTHING, RANDOM SPACE AND STAYS)
 
@@ -23,16 +23,17 @@ CAVALRY - hits player if they are one space away, dies if they are on the same s
 KILLER - randomly generates a space to kill, then kills if the player is there. 
 
 At most 3 can interact only when on the same square
-TOKEN, GHOST
+TOKEN, GHOST, UNICORN
 
 At least 2 pieces that move (implement Moveable) [15pts].
 PLAYER, KILLER, GHOST, CAVALRY
 
 Use at least 2 different move algorithms
 MOVE BY KEY INPUT (PLAYER) AND MOVE BY FOLLOWING PLAYER (CAVALRY, KILLER), MOVE BY RUNNING AWAY FROM PLAYER (GHOST)
+Moves forward until it hits the end, then moves back to the beginning (UNICORN)
 
 At least 1 should include some type of random decision/motion
-HITTER
+HITTER, KILLER
 
 At least 1 piece should only be Drawable (i.e., not a GamePiece) [5pts]
 TOKEN
