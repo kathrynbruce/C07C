@@ -5,6 +5,9 @@ import gameEngine.InteractionResult;
 import gameEngine.Moveable;
 
 public class Killer extends GamePiece implements Moveable {
+	//random val to return for testing purposes
+	int rand_return = 6; 
+	
 
     // constructor
     public Killer(int location) {
@@ -23,11 +26,16 @@ public class Killer extends GamePiece implements Moveable {
         setLocation(getLocation() + 1);
         gameBoard[getLocation()] = this;
     }
+    
+    public int getRandReturn() {
+    	return rand_return; 
+    }
 
     public InteractionResult interact(Drawable[] gameBoard, int playerLocation) {
         // generates a location
         int random = (int) (Math.random() * 20);
-
+        random = 6; 
+        
         // if the player is at that location, they die
         if (playerLocation == random) {
             return InteractionResult.KILL;
@@ -39,4 +47,10 @@ public class Killer extends GamePiece implements Moveable {
         }
         return InteractionResult.NONE;
     }
+    
+    
 }
+
+
+
+
