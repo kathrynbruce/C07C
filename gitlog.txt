@@ -1,0 +1,258 @@
+commit dcce63b801d730b9d88b45f45661847f6426a07e
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Thu Sep 21 12:04:23 2023 -0600
+
+    testing finished
+
+commit 28f559ec8b99d33dfda6e3895f383e97856a0c95
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 21 11:59:34 2023 -0600
+
+    Testing stuff
+
+commit 2d599450efa675434989442acecbf77d862791d5
+Merge: 9975de8 4be5573
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 20:24:42 2023 -0600
+
+    Merge pull request #10 from kathrynbruce/level-2
+    
+    updated level 2 with functionality
+
+commit 4be5573f06fe975951ba1991cbf948dfd71ada5c
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 20:24:19 2023 -0600
+
+    updated level 2
+
+commit 9975de84729ff54fd537312928f0717c72a59030
+Merge: d8eebd4 84b6ab5
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 20:14:09 2023 -0600
+
+    Merge pull request #9 from kathrynbruce/level-setup
+    
+    Level functionality!
+
+commit 84b6ab574ef7bf08d9a9461240e0461ccad3ef41
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 20:13:36 2023 -0600
+
+    Level functionality!
+
+commit d8eebd4fa04f52b74a652e0d72611b09be2f3e86
+Merge: 1329632 2b640d2
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:51:54 2023 -0600
+
+    Merge pull request #8 from kathrynbruce/final-interactive
+    
+    Adding final piece -unicorn
+
+commit 2b640d29e050fc9ef8f15eb596f0bcc7e7ff4036
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:51:31 2023 -0600
+
+    Adding final piece -unicorn
+
+commit 132963250f5ab76dc1917c8b2e0257efa6f294b3
+Merge: bc014f8 2cfe45a
+Author: kathrynbruce <144368061+kathrynbruce@users.noreply.github.com>
+Date:   Mon Sep 18 19:44:50 2023 -0600
+
+    Merge pull request #7 from kathrynbruce/random_movement
+    
+    Random movement
+
+commit bc014f84dfe036f7af8b1fb2b9443fc1f58efd62
+Merge: 4c4b4a8 dcb5612
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:44:23 2023 -0600
+
+    Merge pull request #5 from kathrynbruce/final-two-pieces
+    
+    Adding final two pieces, update README
+
+commit 2cfe45a2b9e0dcba9df4fade87b5b2f833f540e0
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Mon Sep 18 19:43:54 2023 -0600
+
+    random movement
+
+commit dcb5612452a85771c12d25b23197a85385885e10
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:41:43 2023 -0600
+
+    Adding final two pieces, update README
+
+commit f220d75ba47152af902b7dee8c3e384b63521d7c
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Mon Sep 18 19:39:53 2023 -0600
+
+    revert
+
+commit 2942189908e1a724dcd52fd9e6accd81ff9f84d3
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Mon Sep 18 19:30:03 2023 -0600
+
+    hitter game piece
+
+commit 4c4b4a81f91a3245964b874a0ae1dba3b66ee34e
+Merge: fdbf057 4a01cc6
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:29:05 2023 -0600
+
+    Merge pull request #4 from kathrynbruce/moveable_pieces
+    
+    Moveable pieces
+
+commit 4a01cc68a4c58eea8f1a4d2fa36b6aef56c2d95a
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:27:27 2023 -0600
+
+    Added other algo piece, interactive
+
+commit 00f57b88da54e4c7aee212e7ab7c830bc27e5fe9
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Mon Sep 18 19:18:48 2023 -0600
+
+    Added moveable with alg 1, interacts @ dist
+
+commit fdbf05785b434fe14934eef6d8d4931b495d4f27
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Mon Sep 18 18:55:36 2023 -0600
+
+    distraction game piece
+
+commit 007d19b57ff680b56bb5dbe6600af6c703d67ec6
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Mon Sep 18 18:49:12 2023 -0600
+
+    token game piece
+
+commit 3f727083f2558cfd3e458561cc1587956e8cddd6
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 12:19:14 2023 -0600
+
+    Adding specifics to shell classes
+
+commit c85316c7748b68c9aeaf677c5a1abc6b22856235
+Merge: a88cbd5 4b2ae60
+Author: kathrynbruce <144368061+kathrynbruce@users.noreply.github.com>
+Date:   Thu Sep 14 12:18:32 2023 -0600
+
+    Merge pull request #3 from kathrynbruce/edit1
+    
+    readme with requirements
+
+commit 4b2ae60554720f98933a8c847fed42819f134446
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Thu Sep 14 12:17:16 2023 -0600
+
+    readme with requirements
+
+commit a88cbd5c85539f7879452d4a5f3f5dd64f6f251e
+Merge: 162023b cddfac7
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 12:10:28 2023 -0600
+
+    Merge pull request #2 from kathrynbruce/rachel
+    
+    Shell Classes for gamepieces
+
+commit cddfac71b3c2ad0ae75ff42e037c307f394caf25
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 12:09:27 2023 -0600
+
+    Adding final shell pieces
+
+commit 4256e8c22e544f0f9256da5954c3601fe760f1df
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 12:07:13 2023 -0600
+
+    Making shell classes for pieces
+
+commit 162023bddf564c15f8f0333a89ad5e2f02aa4d6e
+Merge: b84d594 1492b41
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:52:15 2023 -0600
+
+    Merge branch 'main' of https://github.com/kathrynbruce/C07C
+
+commit b84d594a606f44c6205422f3f347ec29eb090686
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:51:49 2023 -0600
+
+    Fixing small shell errors
+
+commit 1492b412377949fbe7b94e1210e10175e2c711bc
+Merge: 2af271e af889c3
+Author: Rachel Castro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:50:34 2023 -0600
+
+    Merge pull request #1 from kathrynbruce/levelSetup
+    
+    Level setup
+
+commit af889c36ed24262ca40e62086133dd9436e4d875
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:48:48 2023 -0600
+
+    Test
+
+commit 46a8f80065f7dcd1468c042d1456f2de62183987
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:46:36 2023 -0600
+
+    Test
+
+commit 2af271ecf6c49d7e727b5203d1ee82a48d41fada
+Merge: 548b84e c5947dc
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:44:09 2023 -0600
+
+    Merge branch 'main' of https://github.com/kathrynbruce/C07C
+
+commit c5947dc9b4f644dfd6b7e78992770fde0a4580fe
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Thu Sep 14 11:42:07 2023 -0600
+
+    weird file structure fixed
+
+commit 548b84ebd40cb53e5b6d12aec31d5be558dd6d0c
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:41:56 2023 -0600
+
+    One small change to test
+
+commit 89ea7097badae423a641efa8b0f25ca7577a893b
+Merge: efa2223 372690e
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:38:32 2023 -0600
+
+    Merge branch 'main' of https://github.com/kathrynbruce/C07C
+    Tryting to make thigs work. # the commit.
+
+commit efa22236ddcb1b9b1f3176bc43f4306be65cd011
+Author: rhcastro <94096212+rocky-mtn-high@users.noreply.github.com>
+Date:   Thu Sep 14 11:26:19 2023 -0600
+
+    Added LevelSetup Shells
+
+commit 372690e6bd8b6f504eb8a1f0bf29dfbcbb708892
+Author: Kathryn <kathrynbruce7@gmail.com>
+Date:   Thu Sep 14 11:19:25 2023 -0600
+
+    moved gitignore
+
+commit ee9da05d481838c10bedf553e17ad9db112e2056
+Author: kathrynbruce <144368061+kathrynbruce@users.noreply.github.com>
+Date:   Wed Sep 13 21:33:43 2023 -0600
+
+    Initial Commit with Files
+
+commit 8d9de8a1fd0fb42378325339d98854fab8c3dfc5
+Author: kathrynbruce <144368061+kathrynbruce@users.noreply.github.com>
+Date:   Wed Sep 13 21:28:37 2023 -0600
+
+    Initial commit
