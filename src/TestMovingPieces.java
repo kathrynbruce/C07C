@@ -1,3 +1,8 @@
+//testing junit stuff movements
+//Katie Bruce (Student)
+//Rachel Castro (Student)
+//Thu 9/21/2023 11:54 AM
+
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList; 
 

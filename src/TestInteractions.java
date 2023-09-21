@@ -1,5 +1,5 @@
 
-//testing junit stuff
+//testing junit stuff interactions
 //Katie Bruce (Student)
 //Rachel Castro (Student)
 //Thu 9/21/2023 11:54 AM
